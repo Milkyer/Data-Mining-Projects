@@ -1,5 +1,5 @@
 # Data-Mining-Projects
-by Python
+by Python.
 
 此项目主要是利用Python进行数据分析挖掘，包括三份带有项目报告的数据分析项目Project Reports：
   《分类预测信用卡使用活跃者》：利用机器学习分类算法预测信用卡使用活跃者；
